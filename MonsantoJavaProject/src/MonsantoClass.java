@@ -3,7 +3,7 @@ public class MonsantoClass {
 
 	public static void main(String[] args)
 	{
-		System.out.println("Hello World12345");//Code modified for UST3, fixed defect DEF2
+		System.out.println("Hello World123456");//Code modified for UST5, fixed defect DEF2
 		
 	}
 
